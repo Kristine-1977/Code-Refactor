@@ -1,1 +1,3 @@
-# Code-Refactor
+# Code-Refactor:
+Our marketing agent has asked for the code to be simplified to make it more accessible and readable to anyone who visits the site. All the changes are not to change the layout of the page in anyway.
+The changes made to the code are as follows: A space was deleted between lines 2 and 4, removed the space on lice 9 to the banner has no bulleted list in it, replaced the <div> tag with a <nav> tag, and deleted line 80 as it was excessive space and it didn't effect the layout of the page or the appearance of the website. The changes made eliminated unnecessary code and streamlined the website. 
