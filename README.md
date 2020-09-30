@@ -1,4 +1,4 @@
-# git add .[Code-Refactor](https://kristine-1977.github.io/Code-Refactor/)
+# [Code-Refactor](https://kristine-1977.github.io/Code-Refactor/)
 
 Assignment: The marketing agent has asked the code on the website be simplified to make it more accessable and readable anyone who visits the sitebut without changing the look of the website.
 Changes made to the code:
